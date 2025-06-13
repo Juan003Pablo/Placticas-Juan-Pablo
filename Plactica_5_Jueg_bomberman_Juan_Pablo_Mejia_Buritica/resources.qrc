@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>brick.png</file>
+        <file>wall.png</file>
+        <file>player.png</file>
+        <file>bomb.png</file>
+        <file>flame.png</file>
+        <file>playerR.png</file>
+        <file>playerU.png</file>
+        <file>playerL.png</file>
+        <file>enemy.png</file>
+        <file>powerup.png</file>
+        <file>door.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>bomb_explodes.mp3</file>
+        <file>place_bomb.mp3</file>
+        <file>enemy_die.mp3</file>
+        <file>life_Down.mp3</file>
+        <file>Bomberman_background.mp3</file>
+        <file>StageClear.mp3</file>
+        <file>powerUp.mp3</file>
+    </qresource>
+</RCC>
